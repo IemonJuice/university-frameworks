@@ -93,6 +93,9 @@ var IceCream = /** @class */ (function () {
         if (this.caramel) {
             this.price += 6;
         }
+        if (this.marshmello) {
+            this.price += 5;
+        }
         return this.price;
     };
     return IceCream;
