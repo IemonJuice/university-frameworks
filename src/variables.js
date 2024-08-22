@@ -1,0 +1,12 @@
+var text = "bomboclad";
+var isGay = false;
+var someNumber = 100000000;
+var anyStaffInTheWorld = new Map();
+var arrayOfStrings = ["text", "another text"];
+var arrayOfNumbers = [2, 3, 5, 8, 13];
+console.log(text);
+console.log(isGay);
+console.log(someNumber);
+console.log(anyStaffInTheWorld);
+console.log(arrayOfStrings);
+console.log(arrayOfNumbers);
